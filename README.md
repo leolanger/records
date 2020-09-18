@@ -18,8 +18,8 @@
 
 ## Rust
 
-+ [blog]()
-+ [playground]()
++ [blog](https://leolanger.github.io/2020/09/15/Rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
++ [playground](https://github.com/leolanger/rust-playground)
 
 ## MDN
 
@@ -32,5 +32,8 @@
 + [blog](https://leolanger.github.io/2020/06/09/%E5%88%9D%E8%AF%86javascript/)
 + [playground]()
 
+## Java
 
++ [blog]()
++ [playground](https://github.com/leolanger/java-playground)
 
