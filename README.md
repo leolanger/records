@@ -8,24 +8,24 @@
 
 ## C++
 
+### C++ primer plus
+
 + [blog1](https://lhd-code.github.io/2019/11/13/green-hand-to-learn-c/)
 
 + [blog2](https://lhd-code.github.io/2020/05/19/learn-C++/)
 
 ## C
 
+### C pointer
+
 + [blog](https://lhd-code.github.io/2020/01/11/learning-and-using-C-pointer/)
 
 ## Rust
 
+### the book
+
 + [blog](https://leolanger.github.io/2020/09/15/Rust%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
 + [playground](https://github.com/leolanger/rust-playground)
-
-## MDN
-
-+ ### css
-
-+ ### html
 
 ## Js
 
