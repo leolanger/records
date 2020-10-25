@@ -1,6 +1,6 @@
 # records
 
-> 记录、归总自己所学，和一些学习笔记以及练习的程序。
+> 记录、归总自己所学，和一些学习笔记以及练习的代码。
 
 ## Git
 
@@ -34,6 +34,10 @@
 
 ## Java
 
-+ [blog]()
 + [playground](https://github.com/leolanger/java-playground)
+
+## Elixir
+
++[blog](https://leolanger.github.io/2020/10/22/elixir-%E5%B0%8F%E8%AE%B0/)
++[platground](https://github.com/leolanger/elixir-playground)
 
