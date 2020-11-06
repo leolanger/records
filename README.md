@@ -38,6 +38,9 @@
 
 ## Elixir
 
-+[blog](https://leolanger.github.io/2020/10/22/elixir-%E5%B0%8F%E8%AE%B0/)
-+[platground](https://github.com/leolanger/elixir-playground)
++ [blog](https://leolanger.github.io/2020/10/22/elixir-%E5%B0%8F%E8%AE%B0/)
++ [platground](https://github.com/leolanger/elixir-playground)
 
+## Haskell
+
++ [playground](https://github.com/leolanger/haskell-playground)
