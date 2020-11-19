@@ -46,3 +46,7 @@
 ### learn you a haskell
 
 + [playground](https://github.com/leolanger/haskell-playground)
+
+### What I Wish I Knew When Learning Haskell
+
++ [playground](https://github.com/leolanger/haskell-playground/tree/master/trail)
