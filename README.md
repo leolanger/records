@@ -38,7 +38,6 @@
 
 ## Elixir
 
-+ [blog](https://leolanger.github.io/2020/10/22/elixir-%E5%B0%8F%E8%AE%B0/)
 + [platground](https://github.com/leolanger/elixir-playground)
 
 ## Haskell
@@ -50,3 +49,8 @@
 ### What I Wish I Knew When Learning Haskell
 
 + [playground](https://github.com/leolanger/haskell-playground/tree/master/trail)
+
+## Operating System
+
+### CMU-15213
++ [lab](https://github.com/leolanger/CMU-15213-lab)
