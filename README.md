@@ -50,6 +50,10 @@
 
 + [playground](https://github.com/leolanger/haskell-playground/tree/master/trail)
 
+## Typescript
+
++ [playground](https://github.com/leolanger/playground/tree/master/typescript)
+
 ## Operating System
 
 ### CMU-15213
