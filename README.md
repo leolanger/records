@@ -36,7 +36,7 @@
 
 ### Crash Course
 
-+[playground](https://github.com/leolanger/playground/tree/master/rust/rust-crash-course)
++ [playground](https://github.com/leolanger/playground/tree/master/rust/rust-crash-course)
 
 ------------
 
@@ -82,5 +82,5 @@
 
 ### Type-Driven Developement
 
-+[playground](https://github.com/leolanger/playground/tree/master/idris/type-driven)
++ [playground](https://github.com/leolanger/playground/tree/master/idris/type-driven)
 
